@@ -1,0 +1,4 @@
+FROM almalinux:latest
+LABEL AUTHOR="VIJAYA"\
+      COURSE="DEVOPS"\
+      DURATION="25HRS"
